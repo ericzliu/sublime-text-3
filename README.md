@@ -7,6 +7,10 @@ Multi cursors
 
 Use case: change variable name in a uniform way, e.g. add prefix m_
 
+Multi cursors
+- Add cursor in line above: control + shift + up arrow
+- Add cursor in line below: control + shift + down arrow
+
 
 Multi occurrence selection
 - goto next occurrence and add to selection: command + d
